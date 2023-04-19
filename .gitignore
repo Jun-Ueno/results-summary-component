@@ -16,5 +16,6 @@
 .prettierignore
 .gitignore
 results-summary-component-main
-assets
 design
+README-old.md
+style-guide.md
